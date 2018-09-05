@@ -1,5 +1,12 @@
 Hi this is sasi...!
 
+<<<<<<< HEAD
 Changes made at main System.
+=======
+
+
+Doesnt want to make any changes at the clone side.
+
+>>>>>>> d2f0fc7f0e2b97a58efb8b00c2a93cc7f5d77d8d
 
 This is my Second Document....!
